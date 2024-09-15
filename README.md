@@ -1,12 +1,18 @@
-- 👋 Hi, I’m Roxana-Teymoori
-- 👀 I’m interested 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💫 About Me:
+ Hi, I’m Roxana Teymoori<br>👩‍💻 Front-end Developer | WordPress Wrangler | Passionate about embracing new learning curves and challenges<br><br>I'm a front-end developer from Mashhad, Iran, with a keen interest in building modern, responsive, and user-friendly websites. My journey in web development has been driven by a passion for learning and tackling new challenges, whether it's exploring new technologies or optimizing existing ones.<br><br>👀 What I’m Interested In<br>Front-end Development: Crafting beautiful and functional user interfaces using HTML, CSS, and JavaScript.<br>WordPress Development: Building and customizing WordPress themes and plugins for scalable and efficient websites.<br>Docker & DevOps: Containerizing applications for seamless deployment and scalability.<br>Python Projects: Experimenting with Python for various interesting and innovative projects.<br>Presentations & Teaching: I love presenting and teaching complex topics in an easy-to-understand manner. I have experience conducting webinars on Artificial Intelligence, helping others understand and explore this fascinating field.<br>🌱 Currently Learning<br>Advanced JavaScript & React: Enhancing my skills in modern JavaScript frameworks and libraries.<br>Docker & Kubernetes: Delving deeper into container orchestration for scalable and reliable deployments.<br>Web Performance Optimization: Learning strategies to make websites faster and more efficient.<br>💞️ Looking to Collaborate On<br>Open Source Projects: I’m open to contributing to open-source projects that align with my skills and interests.<br>Web Development Projects: Collaborations on creating innovative web solutions using modern technologies.<br>AI & Educational Webinars: I’m excited to collaborate on AI projects or webinars to share knowledge and insights with the community.<br>📫 How to Reach Me<br>LinkedIn: Roxana Teymoori<br>Telegram: @rt_teymoori<br>😄 Pronouns<br>She/Her<br>⚡ Fun Fact<br>I love turning complex problems into simple, elegant solutions, and I believe that learning is a lifelong journey.<br>📈 GitHub Stats<br>Contributions: 455 contributions in the last year<br>Top Projects:<br>Cangrow-Project: Docker configurations for deploying a scalable WordPress site using Nginx and MariaDB.<br>Engilsh-website: A tourism website project using CSS.<br>Interesting-projects-with-Python: Exploring fun projects with Python.<br>Docker Project: A template for dockerizing Node.js applications.<br>Let's connect and create something amazing together! 🌟
 
-<!---
-roxi-t/roxi-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Roxana Teimouri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@roxanat7625) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=roxi-t&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=roxi-t&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roxi-t&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=roxi-t&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
