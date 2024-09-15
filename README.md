@@ -24,7 +24,7 @@ To craft seamless digital experiences that are not just visually stunning but al
 - **📚 AI & Educational Webinars:** Collaborating on AI projects and hosting educational webinars to empower and inspire the tech community.
 
 ### 📬 Let’s Connect!
-- **💼 LinkedIn:** [Roxana Teymoori](https://www.linkedin.com/in/roxana-teymoori-16a48a288/)
+- **💼 LinkedIn:** [Roxana Teimouri](https://www.linkedin.com/in/roxana-teimouri-16a48a288/)
 - **💬 Telegram:** [@rt_teymoori](https://www.t.me/rt_teymoori)
 
 ### 🌈 Pronouns
@@ -43,6 +43,7 @@ To craft seamless digital experiences that are not just visually stunning but al
 
 ### ✨ Let’s Create Something Extraordinary Together!
 I’m always excited to meet fellow developers, creators, and enthusiasts. Let’s connect, collaborate, and make the digital world a more innovative and inclusive space! 🚀
+
 
 
 
