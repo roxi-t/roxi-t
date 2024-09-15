@@ -1,5 +1,49 @@
-# 💫 About Me:
- Hi, I’m Roxana Teymoori<br>👩‍💻 Front-end Developer | WordPress Wrangler | Passionate about embracing new learning curves and challenges<br><br>I'm a front-end developer from Mashhad, Iran, with a keen interest in building modern, responsive, and user-friendly websites. My journey in web development has been driven by a passion for learning and tackling new challenges, whether it's exploring new technologies or optimizing existing ones.<br><br>👀 What I’m Interested In<br>Front-end Development: Crafting beautiful and functional user interfaces using HTML, CSS, and JavaScript.<br>WordPress Development: Building and customizing WordPress themes and plugins for scalable and efficient websites.<br>Docker & DevOps: Containerizing applications for seamless deployment and scalability.<br>Python Projects: Experimenting with Python for various interesting and innovative projects.<br>Presentations & Teaching: I love presenting and teaching complex topics in an easy-to-understand manner. I have experience conducting webinars on Artificial Intelligence, helping others understand and explore this fascinating field.<br>🌱 Currently Learning<br>Advanced JavaScript & React: Enhancing my skills in modern JavaScript frameworks and libraries.<br>Docker & Kubernetes: Delving deeper into container orchestration for scalable and reliable deployments.<br>Web Performance Optimization: Learning strategies to make websites faster and more efficient.<br>💞️ Looking to Collaborate On<br>Open Source Projects: I’m open to contributing to open-source projects that align with my skills and interests.<br>Web Development Projects: Collaborations on creating innovative web solutions using modern technologies.<br>AI & Educational Webinars: I’m excited to collaborate on AI projects or webinars to share knowledge and insights with the community.<br>📫 How to Reach Me<br>LinkedIn: Roxana Teymoori<br>Telegram: @rt_teymoori<br>😄 Pronouns<br>She/Her<br>⚡ Fun Fact<br>I love turning complex problems into simple, elegant solutions, and I believe that learning is a lifelong journey.<br>📈 GitHub Stats<br>Contributions: 455 contributions in the last year<br>Top Projects:<br>Cangrow-Project: Docker configurations for deploying a scalable WordPress site using Nginx and MariaDB.<br>Engilsh-website: A tourism website project using CSS.<br>Interesting-projects-with-Python: Exploring fun projects with Python.<br>Docker Project: A template for dockerizing Node.js applications.<br>Let's connect and create something amazing together! 🌟
+# 🌟 Hey there! I’m Roxana Teymoori
+👩‍💻 **Front-end Developer Extraordinaire** | **WordPress Wizard** | **Passionate Educator & Presenter** 
+
+Welcome to my corner of the tech world! I’m a front-end developer based in Mashhad, Iran, with a flair for transforming ideas into beautiful, functional, and user-centric websites. My journey in web development is a mix of creativity, curiosity, and an unending desire to learn and teach. 
+
+### 🎯 My Mission
+To craft seamless digital experiences that are not just visually stunning but also intuitive and accessible. Whether it's coding, presenting, or teaching, I aim to make complex concepts feel simple and engaging.
+
+### 💡 What I’m Passionate About
+- **✨ Front-end Alchemy:** Turning lines of code into stunning user interfaces using HTML, CSS, and JavaScript. I thrive on creating websites that are as functional as they are beautiful.
+- **🛠 WordPress Magic:** Crafting and customizing WordPress themes and plugins to bring unique and scalable web solutions to life.
+- **🚀 Docker & DevOps Enthusiasm:** Containerizing applications with Docker and exploring DevOps to ensure smooth and efficient deployments.
+- **🐍 Python Explorations:** Diving into Python projects to experiment, innovate, and push the boundaries of what’s possible.
+- **🎤 Presentation & Teaching:** I absolutely love sharing knowledge! I’ve had the pleasure of hosting webinars on Artificial Intelligence, breaking down complex topics into engaging and digestible content.
+
+### 🌱 What I’m Exploring Right Now
+- **💻 Advanced JavaScript & React:** Diving deeper into modern JavaScript frameworks to build more dynamic, interactive web applications.
+- **📦 Docker & Kubernetes Mastery:** Enhancing my skills in container orchestration for creating scalable and reliable web environments.
+- **⚡ Web Performance Optimization:** Uncovering techniques to make websites lightning-fast and seamlessly efficient.
+
+### 🤝 Let’s Collaborate On
+- **🌐 Open Source Marvels:** I’m eager to contribute to open-source projects that align with my skills and passions.
+- **💡 Innovative Web Projects:** Bringing creative and cutting-edge web solutions to life using the latest technologies.
+- **📚 AI & Educational Webinars:** Collaborating on AI projects and hosting educational webinars to empower and inspire the tech community.
+
+### 📬 Let’s Connect!
+- **💼 LinkedIn:** [Roxana Teymoori](https://www.linkedin.com/in/roxana-teymoori-16a48a288/)
+- **💬 Telegram:** [@rt_teymoori](https://www.t.me/rt_teymoori)
+
+### 🌈 Pronouns
+- She/Her
+
+### 🎉 Fun Fact
+- I believe in the magic of learning. Whether it's solving a coding challenge or delivering a webinar, I love transforming complexity into simplicity with a touch of creativity.
+
+### 🌟 GitHub Highlights
+- **✨ 455 Contributions** in the last year
+- **🚀 Featured Projects:**
+  - **[🌱 Cangrow-Project](https://github.com/roxi-t/Cangrow-Project):** Docker configurations for deploying a scalable WordPress site using Nginx and MariaDB. A perfect blend of performance and reliability.
+  - **[🌐 Engilsh-Website](https://github.com/roxi-t/Engilsh-website):** A captivating tourism website crafted with care, using CSS to create a visually stunning experience.
+  - **[🐍 Interesting Projects with Python](https://github.com/roxi-t/Interesting-projects-with-Python):** A collection of exciting Python projects exploring the versatility of this powerful language.
+  - **[⚙️ Docker Project](https://github.com/roxi-t/docker-project):** A comprehensive template for dockerizing Node.js applications, making deployment a breeze.
+
+### ✨ Let’s Create Something Extraordinary Together!
+I’m always excited to meet fellow developers, creators, and enthusiasts. Let’s connect, collaborate, and make the digital world a more innovative and inclusive space! 🚀
+
 
 
 ## 🌐 Socials:
